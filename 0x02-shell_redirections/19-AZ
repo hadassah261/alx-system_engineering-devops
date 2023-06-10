@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "AcAca" | tr 'Ac' 'Ze'
